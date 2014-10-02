@@ -1,4 +1,4 @@
-### Veri yapıları ödevini yap!
+#### Veri yapıları ödevini yap!
 
 ### C projesi(Banka otomasyonunu bitir.)
 
